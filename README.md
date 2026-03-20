@@ -14,7 +14,7 @@ A lightweight utility-first CSS engine built with JavaScript.
 - Applies inline styles dynamically
 
 ## 🔗 Live Demo
-[Your Link]
+https://bespoke-bombolone-31aa4d.netlify.app/
 
 ## 📦 GitHub
 https://github.com/krunals1854-code/ChaiTailwind
