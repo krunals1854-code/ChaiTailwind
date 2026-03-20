@@ -17,4 +17,4 @@ A lightweight utility-first CSS engine built with JavaScript.
 [Your Link]
 
 ## 📦 GitHub
-[[Your Repo Link]](https://github.com/krunals1854-code/ChaiTailwind.git)
+https://github.com/krunals1854-code/ChaiTailwind
